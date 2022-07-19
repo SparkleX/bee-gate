@@ -1,0 +1,7 @@
+---
+applications:
+  - name: bee
+    buildpacks: 
+      - nodejs_buildpack
+    command: npm start
+    

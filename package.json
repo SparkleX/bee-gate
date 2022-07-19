@@ -1,0 +1,17 @@
+{
+  "name": "bee-gate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-better-http-proxy": "^0.2.9",
+    "koa-logger": "^3.2.1",
+    "koa-mount": "^4.0.0"
+  }
+}
